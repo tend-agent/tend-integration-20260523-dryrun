@@ -1,0 +1,9 @@
+bot_name: tend-agent
+harness: claude
+workflows:
+  mention: false
+  notifications: false
+  ci-fix: false
+  nightly: false
+  review-runs: false
+  weekly: false
